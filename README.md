@@ -1,3 +1,8 @@
+[![CI](https://github.com/kunalkagarwal/Validator-Library/actions/workflows/ci.yml/badge.svg)](https://github.com/kunalkagarwal/Validator-Library/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/kunalkagarwal/Validator-Library)
+
+
 # Validator-Library
 A modular JavaScript validator library providing common validators (email, phone, url, ip, username, password, date, credit card, Luhn, ISBN, UUID, time, coordinates, and more). Includes unit tests, integration tests, and mutation testing with Stryker.
 
@@ -30,3 +35,8 @@ Report at: reports/mutation/index.html
 
 ## License
 MIT License
+## Mutation Testing Score
+
+Below is the mutation score report from Stryker:
+
+![Mutation Score](docs/images/mutation-score.png)
