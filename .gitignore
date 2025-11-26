@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+reports/
+reports/mutation/
+.stryker-tmp/
+dist/
+build/
+.env
+.DS_Store
