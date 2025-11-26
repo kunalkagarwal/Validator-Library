@@ -11,12 +11,16 @@
     "mutate:focused": "npx stryker run --configFile=stryker.config.js --logLevel debug"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kunal Agarwal",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "@stryker-mutator/core": "^9.4.0",
     "@stryker-mutator/jest-runner": "^9.4.0",
     "jest": "^30.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kunalkagarwal/Validator-Library.git"
   }
 }
